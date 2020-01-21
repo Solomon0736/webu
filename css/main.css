@@ -9,13 +9,12 @@ body {
   margin: 0 auto; 
 
 }
-a {
-  text-decoration-color:non;
+a { 
   color: blue;
-  width: 222%;
-  margin: auto;
+  
+  
 }
-h1,h2,h3{
+h3{
   margin: 0;
   background: non;
 }
@@ -73,7 +72,7 @@ tab-size: 50px;
 
 section {
   font-size: 200%;
-font-family: initial;
+font-family: sans-serif;
 float: right;
 
 }
@@ -82,10 +81,13 @@ li {
  float: right;
  
 }
-h3 {
-  font-size: 30px;
-}
 h4 {
   font-size: 45px;
   float:right;
+  margin-top: inherit;
 }
+
+#selected {
+  margin-bottom: 25px;
+}
+ 
