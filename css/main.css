@@ -9,14 +9,8 @@ body {
   margin: 0 auto; 
 
 }
-a { 
-  color: blue;
-  
-  
-}
 h3{
-  margin: 0;
-  background: non;
+  margin: 4px;
 }
 #container{
   background-color: non;
@@ -33,7 +27,7 @@ h3{
 #content {
   padding: 10px;
   color: white;
-  width: 100%;
+  width: 89%;
 margin-bottom: 100px ;
 tab-size: 50px;
 }
@@ -83,11 +77,7 @@ li {
 }
 h4 {
   font-size: 45px;
-  float:right;
-  margin-top: inherit;
+ margin-left: 72px;
+  margin-top: 25px;
 }
 
-#selected {
-  margin-bottom: 25px;
-}
- 
